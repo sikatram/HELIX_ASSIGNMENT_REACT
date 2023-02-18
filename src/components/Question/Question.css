@@ -1,0 +1,31 @@
+.close-icon {
+    float: right !important;
+    right: 20px;
+    position: absolute;
+    color: #6174dd;
+}
+
+/* .ui.form.button {
+    color: #ffffff;
+    background-color: #99A5E5 !important;
+    border-radius: 25px;
+    position: absolute !important;
+    right: 11.5% !important;
+} */
+
+.ui.card.question-card {
+    border-radius: 20px;
+    margin-top: 2em !important;
+    width: 70%;
+    position: center;
+}
+
+.ui.button.my-submit {
+    color: white;
+    background-color: #99A5E5;
+    border-radius: 25px;
+}
+
+.my-icon{
+    padding: 9px;
+}

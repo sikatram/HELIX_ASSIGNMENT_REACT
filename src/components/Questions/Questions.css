@@ -1,0 +1,16 @@
+.ui.card.questions-card {
+    border-radius: 20px;
+    margin-top: 2em !important;
+    width: 1200px;
+    position: center;
+    padding: 3%;
+}
+
+.ui.comments.question-comments {
+    max-width: 100%;
+}
+
+.author-title {
+    color: #6074DD !important;
+    font-family: 'Poppins';
+}

@@ -1,0 +1,36 @@
+.ui.container.dashboard-container{
+    max-width: 90%;
+}
+
+.ui.segment.dashboard-segment{
+    border-radius: 25px;
+    background-color: #969696;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2em !important;
+}
+
+.question-column {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.ui.button.ask-button {
+    color: #ffffff;
+    background-color: #6174dd;
+    border-radius: 25px;
+    position: absolute;
+    right: 11.5%;
+    top: 20px;
+}
+
+.ui.header.main-header {
+    color: #34324C;
+}
+
+.ui.image.logo {
+    margin-right: 25px !important;
+}

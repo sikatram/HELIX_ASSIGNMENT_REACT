@@ -1,0 +1,14 @@
+.ui.header.expert-header{
+    margin-bottom: .2em !important;
+    color: #6074DD;
+    font-family: 'Poppins';
+}
+
+.ui.card.expert-card{
+    border-radius: 20px;
+    margin-top: 2em !important;
+}
+
+.ui.image.up-arrow{
+    margin-right: 10px;
+}
